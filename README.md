@@ -1,52 +1,52 @@
 # ✨ Hanir Lab - Ultimate Productivity Space
 
-**Hanir Lab** adalah aplikasi produktivitas berbasis web yang menggabungkan teknik Pomodoro, Manajemen Tugas (To-Do List), dan *Soundscape* yang menenangkan dalam antarmuka *Glassmorphism* yang estetis.
+**Hanir Lab** is a web-based productivity application combining the Pomodoro technique, Task Management (To-Do List), and calming *Soundscapes* within an aesthetic *Glassmorphism* interface.
 
-Dibuat khusus sebagai ruang digital untuk fokus, belajar, dan beribadah dengan integrasi Murottal Al-Qur'an.
+Designed specifically as a digital space for focus, learning, and worship, featuring integrated Murottal Al-Qur'an audio.
 
 ![Hanir Lab Preview](public/images/logo.png)
-*(Pastikan Anda mengupload screenshot aplikasi di folder public/images dan ganti nama filenya di sini agar muncul preview)*
+*(Make sure to upload a screenshot of the app in the public/images folder and rename the file here to show the preview)*
 
-## 🌟 Fitur Utama (Key Features)
+## 🌟 Key Features
 
 ### ⏱️ Smart Focus Timer
-- **Mode Fleksibel:** Preset untuk Study (25/5), Work (50/10), Health (45/15), dan mode Custom.
-- **Visual Indikator:** Background dan aset karakter berubah dinamis antara mode *Fokus* dan *Istirahat*.
-- **Daily Stats:** Penghitung sesi fokus dan istirahat harian.
+- **Flexible Modes:** Presets for Study (25/5), Work (50/10), Health (45/15), and Custom mode.
+- **Visual Indicators:** Dynamic backgrounds and character assets that change between *Focus* and *Break* modes.
+- **Daily Stats:** Counters for completed focus sessions and breaks.
 
 ### 🎧 Audio & Spiritual Soundscape
-- **MP3 Player Native:** Putar audio Lofi dan Murottal tanpa iklan.
-- **Qur'an Playlist:** Koleksi surat pilihan (Al-Kahf, Ar-Rahman, Yasin, Al-Mulk, Juz 30) dari Qori ternama (Mishary Rashid, Saad Al Ghamdi).
-- **Spotify Integration:** Embed playlist Spotify favorit.
+- **Native MP3 Player:** Play Lofi and Murottal audio seamlessly without ads.
+- **Qur'an Playlist:** A curated collection of selected Surahs (Al-Kahf, Ar-Rahman, Yasin, Al-Mulk, Juz 30) by renowned Qaris (Mishary Rashid, Saad Al Ghamdi).
+- **Spotify Integration:** Embed your favorite Spotify playlists.
 
 ### 🎨 Personalization & Theming
-- **Tema Warna:** Pilihan tema Nebula (Ungu), Nature (Hijau), Ocean (Biru), Sunset (Orange), dan Midnight (Dark).
-- **Custom Background:** Upload gambar/wallpaper sendiri dari galeri lokal.
-- **Editable Profile:** Ubah nama pengguna sapaan ("Hi, [Nama]").
+- **Color Themes:** Choose from Nebula (Purple), Nature (Green), Ocean (Blue), Sunset (Orange), and Midnight (Dark).
+- **Custom Background:** Upload your own image/wallpaper from your local gallery.
+- **Editable Profile:** Customize the user greeting name ("Hi, [Name]").
 
 ### 📝 Task Management
-- **To-Do List:** Tambah, edit, hapus, dan tandai tugas selesai.
-- **Simpel & Bersih:** Tampilan *overlay* kaca yang tidak mengganggu fokus.
+- **To-Do List:** Add, edit, delete, and mark tasks as completed.
+- **Simple & Clean:** A glass overlay interface that doesn't distract from your focus.
 
 ### 🌍 Localization
-- **Dual Language:** Dukungan penuh Bahasa Indonesia (ID) dan English (EN).
+- **Dual Language:** Full support for Indonesian (ID) and English (EN).
 
-## 🛠️ Teknologi (Tech Stack)
+## 🛠️ Tech Stack
 
-Aplikasi ini dibangun menggunakan teknologi web modern:
+This application is built using modern web technologies:
 
-- **[React.js](https://reactjs.org/)** - Library UI utama.
-- **[Vite](https://vitejs.dev/)** - Build tool yang super cepat.
-- **[Tailwind CSS](https://tailwindcss.com/)** - Styling framework untuk desain responsif.
-- **[Lucide React](https://lucide.dev/)** - Ikon set yang rapi dan ringan.
+- **[React.js](https://reactjs.org/)** - Main UI Library.
+- **[Vite](https://vitejs.dev/)** - Next Generation Frontend Tooling.
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework for responsive design.
+- **[Lucide React](https://lucide.dev/)** - Beautiful & consistent icons.
 
-## 🚀 Cara Menjalankan (Installation)
+## 🚀 Installation & Setup
 
-Jika Anda ingin menjalankan proyek ini di komputer Anda:
+To run this project locally on your machine:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/USERNAME-ANDA/hanir-lab.git](https://github.com/USERNAME-ANDA/hanir-lab.git)
+    git clone [https://github.com/YOUR-USERNAME/hanir-lab.git](https://github.com/YOUR-USERNAME/hanir-lab.git)
     cd hanir-lab
     ```
 
@@ -55,16 +55,16 @@ Jika Anda ingin menjalankan proyek ini di komputer Anda:
     npm install
     ```
 
-3.  **Jalankan Server Lokal**
+3.  **Run Local Server**
     ```bash
     npm run dev
     ```
 
-4.  Buka browser dan akses `http://localhost:5173`.
+4.  Open your browser and navigate to `http://localhost:5173`.
 
-## 📂 Struktur Aset
+## 📂 Asset Structure
 
-Pastikan Anda memiliki folder `public/images` untuk menyimpan aset gambar karakter dan logo agar aplikasi berjalan sempurna.
+Ensure you have a `public/images` folder to store character assets and logos for the application to run perfectly.
 
 ```text
 public/
@@ -74,3 +74,13 @@ public/
 │   ├── muslimah-break.png
 │   ├── engineer-focus.png
 │   └── engineer-break.png
+```
+
+## 💖 Credits
+- Audio Qur'an:QuranicAudio.com
+
+- Avatars: DiceBear API
+
+- Icons: Lucide React
+
+Made with ❤️ by Hamdi Sholahudin for NIRDI Lab.
