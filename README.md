@@ -4,9 +4,6 @@
 
 Designed specifically as a digital space for focus, learning, and worship, featuring integrated Murottal Al-Qur'an audio.
 
-![Nirdi Lab Preview](https://nirdi-lab.vercel.app/)
-
-
 ## 🌟 Key Features
 
 ### ⏱️ Smart Focus Timer
