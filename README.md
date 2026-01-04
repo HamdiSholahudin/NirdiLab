@@ -4,7 +4,7 @@
 
 Designed specifically as a digital space for focus, learning, and worship, featuring integrated Murottal Al-Qur'an audio.
 
-![Hanir Lab Preview](public/images/logo.png)
+![Hanir Lab Preview](public/images/nirdi.png)
 *(Make sure to upload a screenshot of the app in the public/images folder and rename the file here to show the preview)*
 
 ## 🌟 Key Features
